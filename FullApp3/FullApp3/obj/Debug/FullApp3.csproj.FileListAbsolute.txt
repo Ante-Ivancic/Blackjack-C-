@@ -1,0 +1,14 @@
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\bin\Debug\FullApp3.exe.config
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\bin\Debug\FullApp3.exe
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\bin\Debug\FullApp3.pdb
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.Form1.resources
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.Properties.Resources.resources
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.csproj.GenerateResource.cache
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.csproj.CoreCompileInputs.cache
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.exe
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.pdb
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.Blackjack.resources
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.csproj.CopyComplete
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.SendMoney.resources
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.Profil.resources
+C:\Users\Lijana\source\repos\FullApp3\FullApp3\obj\Debug\FullApp3.csproj.AssemblyReference.cache
